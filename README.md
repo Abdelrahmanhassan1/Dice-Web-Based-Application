@@ -18,3 +18,10 @@
 <hr>
 
 <img src="./README assets/Dice Project.gif"> 
+
+<hr>
+
+<h3><strong>You can try it yourself through the link:</strong></h3>
+<a href="https://abdelrahmanhassan1.github.io/Dice-Web-Based-Application/"> Dice Application</a>
+
+
